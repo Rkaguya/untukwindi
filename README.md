@@ -125,7 +125,7 @@
     <div style="margin-top: 1em;">
       <p style="font-size:0.9em; color:#777;">🎵 Musik Latar:</p>
       <audio controls loop>
-        <source src="https://local-magenta-y98xq1kx7m.edgeone.app/nadhif-basalamah-bergema-sampai-selamanya-official-lyric-video-128-ytshorts.savetube.me.mp3" type="">
+        <source src="https://concerned-amber-syuix51fch.edgeone.app/nadhif-basalamah-bergema-sampai-selamanya-official-lyric-video-128-ytshorts.savetube.me.mp3" type="">
       </audio>
     </div>
   </div>
